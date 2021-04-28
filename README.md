@@ -15,17 +15,13 @@
 |---|:---:|:---:|:---:|
 |JDK|11|자바 개발 도구 오픈소스|https://adoptopenjdk.net/|
 | STS | 4.9.0 | 이클립스 기반 스프링 애플리케이션 개발 도구 | https://spring.io/tools |
-| Lombok | 1.18.18 | 자바 코드 경량화 라이브러리 | http://projectlombok.org/download.html |
+| Lombok | 1.18.20 | 자바 코드 경량화 라이브러리 | http://projectlombok.org/download.html |
+| Git | 2.31.1 | 소스 형상 관리 도구 | http://git-scm.com/downloads |
+| Docker | 20.10.5 | 애플리케이션 컨테이너 관리 도구 | http://docker.com/products/docker-desktop |
+| MariaDB | 10.5.8 | 관계형 데이터 베이스 | https://mariadb.com/downloads |
 
 ## 설치가이드
-- JDK
-  - 설치확인 : java -version
-- STS
-  - 설치 명령어 : $ java –jar [다운받은 jar 파일]
-  - workspace 설정 : ~₩factory₩workspace
-- Lombok
-  - 설치 명령어 : $ java –jar lombok.jar
-  - 설치확인 : STS 설치 폴더 내 Lombok 라이브러리 확인
+- [SW 설치가이드](https://docs.google.com/document/d/1pmdrC1mFp2BiSAaVSozFQ9FFV_FeHaSDLQnWcWXm-Nc/edit?usp=sharing)
 
 # 애플리케이션 샘플
 ## 마이크로서비스
